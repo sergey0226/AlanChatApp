@@ -114,7 +114,7 @@ git push -u origin development
 
 For help getting started with Flutter, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
-##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
+##### Made with ♥ by <a href="https://github.com/sergey0226">Sergey Mitukov</a>
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/sergey0226)
