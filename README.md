@@ -62,7 +62,7 @@ flutter run
 
 ### How to make a Pull Request:
 
-**1.** Fork [this](https://github.com/ishandeveloper/Chatter-App) repository.
+**1.** Fork [this](https://github.com/sergey0226/AlanChatApp) repository.
 
 **2.** Clone the forked repository.
 
